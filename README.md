@@ -23,6 +23,6 @@ Une application web en Flask qui analyse des données de ventes (CSV) et affiche
 
 🧪 Données d’exemple
 
-   Le fichier data/ventes.csv contient des ventes fictives.
+   Le fichier ventes.csv contient des ventes fictives.
 
 

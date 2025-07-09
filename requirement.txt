@@ -1,0 +1,4 @@
+**Dépendances du projet**
+Flask
+pandas
+plotly
